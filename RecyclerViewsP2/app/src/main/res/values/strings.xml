@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">As beautiful as a flower.</string>
+    <string name="affirmation2">Bloom where you are planted.</string>
+    <string name="affirmation3">Happiness blooms from within..</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">Magical garden.</string>
+    <string name="affirmation8">Flowers are always a good choice.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">Keep growing.</string>
+</resources>
